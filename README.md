@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbo
 - 👀 I’m interested in AI, Kotlin
 - 🌱 I’m currently learning AI, Embedding, vector database
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects, and helping people
 - 📫 How to reach me tbo.levallet@gmail.com
 
 <!---
